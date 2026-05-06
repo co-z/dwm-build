@@ -1,5 +1,5 @@
 
-# dwm
+# Dynamic Window Manager 
 co-z's build of dwm.
 
 # install :
