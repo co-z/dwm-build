@@ -7,8 +7,8 @@ https://dwm.suckless.org/
 ```bash
 cd ~/.config
 mkdir ~/.config/dwm
-git clone https://github.com/co-z/DWM-Build
-cd DWM-Build
+git clone https://github.com/co-z/dwm-build
+cd dwm-build
 sudo make clean install
 ```
 # patches:
